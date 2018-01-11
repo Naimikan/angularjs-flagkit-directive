@@ -52,7 +52,7 @@ grunt & grunt preview
 
 <h2 align="center">Reference</h2>
 
-The list of available flags you can find in [FlagKit](https://github.com/madebybowtie/FlagKit) repo.
+The list of available flags you can find in [FlagKit](https://github.com/madebybowtie/FlagKit#reference) repo.
 
 <h2 align="center">Thanks</h2>
 
