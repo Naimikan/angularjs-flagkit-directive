@@ -6,7 +6,6 @@
 		"clean:dist",
 		"jshint",
 		"concat:dist",
-		"less:dist",
 		"browserify",
 		"uglify",
 		"copy"

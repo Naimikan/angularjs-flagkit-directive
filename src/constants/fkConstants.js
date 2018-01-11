@@ -1,8 +1,8 @@
 angular.module('flagkit-directive').constant('version', {
-  full: '1.0.0',
+  full: '1.0.1',
   major: 1,
   minor: 0,
-  patch: 0
+  patch: 1
 });
 
 angular.module('flagkit-directive').constant('fkCountryCodes', [
