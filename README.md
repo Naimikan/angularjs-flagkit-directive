@@ -9,7 +9,7 @@
 
 <h1 align="center">angularjs-flagkit-directive</h1>
 
-An AngularJS directive for [FlagKit](https://github.com/madebybowtie/FlagKit#reference)
+<h5 align="center">An AngularJS directive for <a target="_blank" href="https://github.com/madebybowtie/FlagKit">FlagKit</a></h5>
 
 <h2 align="center">Installation</h2>
 
