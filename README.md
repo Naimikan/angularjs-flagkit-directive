@@ -37,7 +37,7 @@ var app = angular.module('YourProject', ['flagkit-directive']);
 ```
 or
 ```html
-<div fk-country="US"></div>
+<div flag fk-country="US"></div>
 ```
 
 <h2 align="center">Developing</h2>
